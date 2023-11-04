@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>eSaveKind_UserState</key>
+        <string>0</string>
+        <key>eSaveKind_ReviewCount</key>
+        <string>9</string>
+        <key>eSaveKind_UUID</key>
+        <string>00004BEA5A69</string>
+    </dict>
+</plist>

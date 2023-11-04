@@ -1,0 +1,167 @@
+
+ui_all.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_cicle
+  rotate: false
+  xy: 703, 727
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+fieldtitle_light
+  rotate: false
+  xy: 56, 567
+  size: 406, 127
+  orig: 406, 127
+  offset: 0, 0
+  index: -1
+ingame_neon_diagonal_middle
+  rotate: false
+  xy: 2, 12
+  size: 52, 353
+  orig: 52, 353
+  offset: 0, 0
+  index: -1
+ingame_neon_diagonal_middle2
+  rotate: true
+  xy: 627, 945
+  size: 52, 311
+  orig: 52, 311
+  offset: 0, 0
+  index: -1
+ingame_neon_diagonal_short
+  rotate: true
+  xy: 291, 172
+  size: 52, 176
+  orig: 52, 176
+  offset: 0, 0
+  index: -1
+ingame_neon_side_long
+  rotate: false
+  xy: 2, 367
+  size: 52, 630
+  orig: 52, 630
+  offset: 0, 0
+  index: -1
+ingame_neon_side_middle
+  rotate: true
+  xy: 627, 891
+  size: 52, 300
+  orig: 52, 300
+  offset: 0, 0
+  index: -1
+ingame_neon_side_short
+  rotate: true
+  xy: 460, 482
+  size: 52, 145
+  orig: 52, 145
+  offset: 0, 0
+  index: -1
+ingame_neon_top_middle
+  rotate: false
+  xy: 576, 837
+  size: 211, 52
+  orig: 211, 52
+  offset: 0, 0
+  index: -1
+ingame_neon_top_short
+  rotate: false
+  xy: 789, 837
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+ingame_text_goal
+  rotate: false
+  xy: 56, 696
+  size: 415, 122
+  orig: 415, 122
+  offset: 0, 0
+  index: -1
+ingame_text_lose
+  rotate: false
+  xy: 56, 396
+  size: 373, 83
+  orig: 373, 83
+  offset: 0, 0
+  index: -1
+ingame_text_tap
+  rotate: false
+  xy: 56, 921
+  size: 569, 76
+  orig: 569, 76
+  offset: 0, 0
+  index: -1
+ingame_text_win
+  rotate: false
+  xy: 56, 481
+  size: 402, 84
+  orig: 402, 84
+  offset: 0, 0
+  index: -1
+item_shield
+  rotate: false
+  xy: 56, 2
+  size: 268, 29
+  orig: 268, 29
+  offset: 0, 0
+  index: -1
+main_menulight
+  rotate: false
+  xy: 56, 820
+  size: 518, 99
+  orig: 518, 99
+  offset: 0, 0
+  index: -1
+main_menulight2
+  rotate: false
+  xy: 56, 66
+  size: 256, 93
+  orig: 256, 93
+  offset: 0, 0
+  index: -1
+result_stage_star
+  rotate: true
+  xy: 291, 226
+  size: 168, 153
+  orig: 168, 153
+  offset: 0, 0
+  index: -1
+result_starlight
+  rotate: false
+  xy: 56, 161
+  size: 233, 233
+  orig: 233, 233
+  offset: 0, 0
+  index: -1
+shield_light01
+  rotate: false
+  xy: 56, 33
+  size: 270, 31
+  orig: 270, 31
+  offset: 0, 0
+  index: -1
+stage_light1
+  rotate: false
+  xy: 591, 715
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+stage_light2
+  rotate: false
+  xy: 473, 692
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+title_light
+  rotate: false
+  xy: 464, 536
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
